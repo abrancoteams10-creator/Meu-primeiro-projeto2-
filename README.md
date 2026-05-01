@@ -1,2 +1,2 @@
-# Meu-primeiro-projeto2-
-Este é o meu primeiro projeto em python, é um teste em sala de aula, com meus miguchos!
+# Info sobre Futebol
+Este é o info sobre futebol que busca informar e devertir os seus usuários
